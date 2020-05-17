@@ -1,1 +1,3 @@
-# proxy-minecraft-protocol
+# Proxy for Minecraft Protocol
+
+WIP
